@@ -1,0 +1,16 @@
+{
+    "Patients": [
+        {
+            "name": "Saad",
+            "age": "19",
+            "disease": "BEmar"
+        }
+    ],
+    "Appointments": [
+        {
+            "patient": "Saad",
+            "doctor": "Dr. Huzaifa",
+            "date": "22/12/2025"
+        }
+    ]
+}

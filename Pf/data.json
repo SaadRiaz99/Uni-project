@@ -1,0 +1,43 @@
+{
+    "Patients": [
+        {
+            "name": "100",
+            "age": "11",
+            "disease": "11"
+        },
+        {
+            "name": "umair",
+            "age": "18",
+            "disease": "fever"
+        },
+        {
+            "name": "Saad Bin Riaz",
+            "age": "19",
+            "disease": "Fever"
+        },
+        {
+            "name": "latif",
+            "age": "18",
+            "disease": "fever"
+        }
+    ],
+    "appointments": [
+        {
+            "patient": "umair",
+            "doctor": "Dr. saif - Oncology",
+            "date": "18 / 12/2025"
+        },
+        {
+            "patient": "Saad Bin Riaz",
+            "doctor": "Dr. Fatima ",
+            "date": "9/4/2025"
+        },
+        {
+            "patient": "latif",
+            "doctor": "Dr. Sara",
+            "specialization": "Child Specialist",
+            "disease": "fever",
+            "date": "18 / 1 / 2026"
+        }
+    ]
+}
